@@ -1,0 +1,6 @@
+---
+title: "Analyzing Baby Names and Flights"
+author: Joshua Hicks
+format: html
+---
+
